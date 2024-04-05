@@ -1,1 +1,1 @@
-<h1>this is a about us page <h1>
+<h1>this is a about us page. <h1>
