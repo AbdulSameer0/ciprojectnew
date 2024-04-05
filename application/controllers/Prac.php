@@ -9,4 +9,11 @@ class Prac extends CI_Controller {
 		// $this->load->view('welcome_message');
         echo "Hello this is paractice session";
 	}
+
+	public function view()
+	{
+		$this->load->view('home_view');
+        
+	}
+
 }
